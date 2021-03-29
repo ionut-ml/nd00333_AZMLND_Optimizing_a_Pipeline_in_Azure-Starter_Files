@@ -7,6 +7,7 @@ This model is then compared to an Azure AutoML run.
 
 ## Summary
 **In 1-2 sentences, explain the problem statement: e.g "This dataset contains data about... we seek to predict..."**
+This project uses the UCI Bank Marketing dataset, which contains demographic (i.e.: age, education, etc.) and financial (i.e.: loans, housing, consumer price index, etc.) as well as other (e..g: previouse campaing outcome) information about potential customers for bank's marketing campain. Our goal is to predict if the customer answers "yes" or "no" to term deposit. To this end we will use classification algorithms in Azure in 2 ways: using Hyperdrive, and using AutoML.
 
 **In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**
 
